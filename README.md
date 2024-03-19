@@ -1,8 +1,8 @@
 # ADS1256
+
 ADS1256
 
 adienakhmad/ADS1256: Arduino Library for Texas Instrument ADS1256
-
 
 https://github.com/adienakhmad/ADS1256
 
