@@ -1,4 +1,4 @@
-# ADS1256
+# ADS1256 sample codes
 
 ADS1256
 
